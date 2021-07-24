@@ -7,7 +7,10 @@ function Login() {
   return (
     <div className="login">
       <div className="login__container">
-        <img src="https://upload.wikimedia.org" alt="" />
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+          alt=""
+        />
         <div className="login__text">
           <h1>Sign In To WhatsApp</h1>
         </div>

@@ -7,7 +7,7 @@ import Login from "./Login";
 import { useStateValue } from "./StateProvider";
 
 function App() {
-  const [user, dispatch] = useStateValue();
+  const [{ user }, dispatch] = useStateValue();
 
   return (
     // BEM naming conversation

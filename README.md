@@ -3,7 +3,10 @@
 Login with Google
 <br>
 Login Screen
+<br>
 Chat Screen
-Add New Chat 
+<br>
+Add New Chat
+<br>
 New Chat Screen
 

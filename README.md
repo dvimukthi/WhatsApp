@@ -1,7 +1,7 @@
 # WhatsApp Web Application
 
 Login with Google
-<br/>
+<br>
 Login Screen
 Chat Screen
 Add New Chat 
